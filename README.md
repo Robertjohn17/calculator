@@ -17,7 +17,7 @@ A simple, stylish calculator built using **React**. This project demonstrates ho
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stylish-calculator.git
+   git clone https://github.com/Robertjohn17/stylish-calculator.git
    ```
 2. Install dependencies 
     ```bash
