@@ -13,18 +13,21 @@ A simple, stylish calculator built using **React**. This project demonstrates ho
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Stylish UI**: Custom CSS design with hover effects and modern aesthetics.
 
+## Demo
+
+https://robertjohn17.github.io/calculator/
+
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Robertjohn17/stylish-calculator.git
    ```
-2. Install dependencies 
-    ```bash
-    npm install
+2. Install dependencies
+   ```bash
+   npm install
    ```
-3. Start the Application 
+3. Start the Application
    ```bash
     npm start
    ```
-     
